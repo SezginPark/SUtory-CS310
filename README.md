@@ -35,6 +35,21 @@ SUtory aims to fill this gap with a simple, campus-only space where:
 
 The wireframes are available in this repository as `SUtory_Wireframes_Koyu_v2.pdf`.
 
+## Flutter version
+
+Flutter 3.50.0 (stable), Dart 3.14.0
+
+## How to run
+
+```bash
+git clone https://github.com/SezginPark/SUtory-CS310.git
+cd SUtory-CS310
+flutter pub get
+flutter run
+```
+
+Start an Android emulator first. Login and sign-up are UI only in this step: enter any email ending in `@sabanciuniv.edu` and any password.
+
 ## Team
 
 **Group 43**, CS310 Mobile Application Development
